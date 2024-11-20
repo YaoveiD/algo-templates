@@ -1,3 +1,0 @@
-python3 ~/scripts/sample_listener.py $@
-rm -f problem.json
-
